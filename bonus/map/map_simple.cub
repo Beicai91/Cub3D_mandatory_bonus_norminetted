@@ -1,0 +1,29 @@
+
+ WE                            textures/west.xpm
+       NO      textures/north.xpm
+
+
+
+SO textures/south.xpm
+
+F      17,    38,     64
+
+EA textures/east.xpm
+DO textures/wood.xpm
+SP1 textures/1.xpm
+SP1 textures/2.xpm
+
+
+
+C 218, 234, 235
+
+111111111
+100000001
+11D110001
+100000001
+100000001
+100E0T001
+100000001
+10001D101
+100000001
+111111111
